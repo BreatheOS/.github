@@ -1,5 +1,6 @@
 ## 🌍 Hi there 👋  
-Welcome to the **BreatheOS** project! 🌱  
+Welcome to the **BreatheOS** project! 🌱  <img width="1536" height="577" alt="breatheOS logo" src="https://github.com/user-attachments/assets/5aa79af2-e0b5-4f77-95f4-0003848414ab" />
+
 
 Air pollution has become an emergency in our country, India.  
 Every year, we see people in Delhi and other major cities struggling to breathe. Those who can afford it leave the city for a few months; those who cannot are forced to live with toxic air every single day.  
